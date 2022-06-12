@@ -3,6 +3,7 @@
 https://github.com/Pablogarciag02/E-commerce-Back-End
 ## Video link
 [Youtube Video showing FUNCTIONALITY](https://youtu.be/3zgtwzxIHj4)
+<br>
 [Youtube Video showing INSTALLATION PROCESS](https://youtu.be/Q_467f2Mqp4)
 ## About this Project
 -Internet retail, also known as **e-commerce**, is the largest sector of the electronics industry, generating an estimated $29 trillion in 2019. E-commerce platforms like Shopify and WooCommerce provide a suite of services to businesses of all sizes. Due to their prevalence
