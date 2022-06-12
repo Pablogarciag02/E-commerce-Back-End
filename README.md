@@ -34,6 +34,7 @@ Create an ecomerce database using sequelize and manipulate it using mysql2 and C
 
 ### Installation
 [INSTALLATION WALKTROUGH VIDEO HERE](https://youtu.be/Q_467f2Mqp4) 
+<br>
 *Step 1*: Install all dependencies by writing the following in the command terminal `npm i ` This will install dotenv, express, mysql2 and sequelize.
 
 *Step 2*: Go [/Develop/db/schema.sql](/Develop/db/schema.sql) And copy the command. 
@@ -54,6 +55,7 @@ Create an ecomerce database using sequelize and manipulate it using mysql2 and C
 ### Credits
 Pablo Eugenio Garcia
 Github: [Pablogarciag02](https://github.com/Pablogarciag02)
+<br>
 LinkedIn: [Pablo-Eugenio-Gacía](https://www.linkedin.com/in/pablo-garc%C3%ADa-08842621b/)
 
 ## Licence
