@@ -2,7 +2,8 @@
 # Gihub Repository
 https://github.com/Pablogarciag02/E-commerce-Back-End
 ## Video link
-[Youtube Video showing how it works](https://note-taker-pablogarciag02.herokuapp.com/)
+[Youtube Video showing FUNCTIONALITY](https://youtu.be/3zgtwzxIHj4)
+[Youtube Video showing INSTALLATION PROCESS](https://youtu.be/Q_467f2Mqp4)
 ## About this Project
 -Internet retail, also known as **e-commerce**, is the largest sector of the electronics industry, generating an estimated $29 trillion in 2019. E-commerce platforms like Shopify and WooCommerce provide a suite of services to businesses of all sizes. Due to their prevalence
 
@@ -31,9 +32,10 @@ Create an ecomerce database using sequelize and manipulate it using mysql2 and C
 
 
 ### Installation
+[INSTALLATION WALKTROUGH VIDEO HERE](https://youtu.be/Q_467f2Mqp4) 
 *Step 1*: Install all dependencies by writing the following in the command terminal `npm i ` This will install dotenv, express, mysql2 and sequelize.
 
-*Step 2*: Go [here](/Develop/db/schema.sql) And copy the command. 
+*Step 2*: Go [/Develop/db/schema.sql](/Develop/db/schema.sql) And copy the command. 
 
 *Step 3*: Open SQL and create a new DATABASE with the command you copied in step 2.
 
